@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi 👋 What's up</h1>
 
-<!--
-**KevenTheCreator/KevenTheCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Keven, and I'm from Brazil</p>
 
-Here are some ideas to get you started:
+<h2>--- About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I'm a systems development student, and I am looking for my first opportunity in this technological market as a backend developer.</p>
+
+<h2>--- My Skills</h2>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height= "60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height= "60"/>
+</div>
+
+<div align= "center">
+ <img src= "https://github-readme-stats.vercel.app/api?username=keventhecreator&show_icons=true&theme=tokyonight&card_width=300&"height=170">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keventhecreator&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=tokyonight&hide_border=false"height="170" alt="languages graph"/>
+</div>
+
+
