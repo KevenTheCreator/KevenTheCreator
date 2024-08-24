@@ -14,8 +14,7 @@
 </div>
 
 <div align= "center">
- <img src= "https://github-readme-stats.vercel.app/api?username=keventhecreator&show_icons=true&theme=tokyonight&card_width=300&"height=170">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keventhecreator&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=tokyonight&hide_border=false"height="170" alt="languages graph"/>
+ <img src= "https://github-readme-stats.vercel.app/api?username=keventhecreator&show_icons=true&theme=tokyonight&card_width=300&"height=200"> 
 </div>
 
 
